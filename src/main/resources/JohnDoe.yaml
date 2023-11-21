@@ -1,0 +1,9 @@
+# This is a YAML file
+name: John Doe
+age: 30
+email: johndoe@example.com
+is_student: true
+hobbies:
+    - Reading
+  - Hiking
+  - Cooking
